@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteync",
+        "uuid": 13807665,
+        "checksum": "i1462e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
